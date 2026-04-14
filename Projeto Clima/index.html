@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Clima 🌤️</h1>
+
+    <input type="text" id="cidade" placeholder="Digite a cidade">
+    <div class="btn-buscar">
+    <button onclick="buscarClima()">Buscar</button>
+    </div>
+
+    <div class="btn-local">
+    <button onclick="pegarLocalizacao()" style="margin-top:10px;">
+      📍 Usar minha localização
+    </button>
+    </div>
+
+    <div id="resultado"></div>
+  </div>
+
+  <script src="java.js"></script>
+</body>
+</html>
