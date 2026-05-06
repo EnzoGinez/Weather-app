@@ -14,7 +14,7 @@ This project was developed with the goal of practicing:
 - Front-end project structuring
 - Dynamic UI based on real data
 
-This was one of the first projects I built using an external API. Through it, I gained a better understanding of the concept and how to work with APIs in practice. Future improvements to this project may be made over time.
+This was one of the first projects I built using an external API. Through it, I gained a better understanding of the concept and how to work with APIs in practice. Future improvements to this project may be pass by changes over time.
 
 ---
 
