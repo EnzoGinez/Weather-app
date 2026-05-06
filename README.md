@@ -1,17 +1,53 @@
 # 🌤️ Weather App Pro
 
-Um aplicativo de previsão do tempo desenvolvido com HTML, CSS e JavaScript, utilizando a API da OpenWeatherMap para fornecer dados climáticos em tempo real.
+A weather forecast application built with HTML, CSS, and JavaScript, using the OpenWeatherMap API to provide real-time climate data.
 
-## 🎯 Objetivo do projeto
+---
 
-Este projeto foi desenvolvido com o objetivo de praticar:
+## 🎯 Project Goal
 
-Consumo de APIs REST
-Manipulação do DOM
-Lógica com JavaScript
-Estruturação de projetos front-end
-UI dinâmica com base em dados reais
+This project was developed with the goal of practicing:
 
-Foi uns dos primeiros ites que produzi com a autilização de uma Api, entendi melhor o conceito e como utilizar, mudanças futuras neste site podem ser ocorridas para a sua melhoria.
+- Consuming REST APIs
+- DOM manipulation
+- JavaScript logic
+- Front-end project structuring
+- Dynamic UI based on real data
 
-*Enzo Ginez Souza.*
+This was one of the first projects I built using an external API. Through it, I gained a better understanding of the concept and how to work with APIs in practice. Future improvements to this project may be made over time.
+
+---
+
+## 🛠️ Technologies Used
+
+| Layer | Technology |
+|-------|------------|
+| Markup | HTML5 |
+| Styling | CSS3 |
+| Logic | JavaScript (ES6) |
+| Data | OpenWeatherMap API |
+
+---
+
+## 🚀 How to Run
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/EnzoGinez/weather-app-pro.git
+```
+
+**2. Navigate to the folder:**
+```bash
+cd weather-app-pro
+```
+
+**3. Open `index.html` in your browser** or use a local server:
+```bash
+npx serve .
+```
+
+---
+
+## 👤 Author
+
+**Enzo Ginez Souza**
